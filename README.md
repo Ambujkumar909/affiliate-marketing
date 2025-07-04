@@ -1,4 +1,4 @@
-# 🛍️ Affiliate Marketing Automation Tool
+# 🛍️ Smart sales Automation Tool
 
 This Python-based tool automates affiliate marketing workflows by scraping product data from websites, extracting links, and sending product details to a Telegram channel using a bot.
 
