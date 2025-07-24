@@ -1,0 +1,1245 @@
+{
+  "isUserLoggedIn": true,
+  "data": [
+    {
+      "type": "products",
+      "id": "PPS202-Flash-Zandu-catcard-106",
+      "attributes": {
+        "name": "Flat 35% Off On Orders over Rs 599",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "PAYDAY SPECIAL",
+        "category_price_starting_from": "144",
+        "category_earn_text": "Flat 20% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/Zandu2-1743500181.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/Zandu2-1743500181.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2534/PPS202-Flash-Zandu-catcard-106?id=",
+        "is_compared": false,
+        "brand": "Zandu",
+        "product_button_text": "",
+        "product_start_datetime": "2025-04-01T13:00:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2534",
+        "merchant_name": "Zandu Care",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/emami-zandu-care-store-1677840107.jpg",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 0,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "2.50",
+          "price_aftercashback": "47.50",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS324-Flash-Houseofkoala-catcard-100",
+      "attributes": {
+        "name": "Tshirts Starting @ Rs 599",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "NEW BRAND",
+        "category_price_starting_from": "599",
+        "category_earn_text": "Flat 45% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/image%20(5)-1748255082.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/image%20(5)-1748255082.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2537/PPS324-Flash-Houseofkoala-catcard-100?id=",
+        "is_compared": false,
+        "brand": "Houseofkoala",
+        "product_button_text": "",
+        "product_start_datetime": "2025-05-26T12:30:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2537",
+        "merchant_name": "House Of Koala",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/house-of-koala-store-1744287709.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 0,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "22.50",
+          "price_aftercashback": "27.50",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS94-Flash-Ramam-Catcard-100",
+      "attributes": {
+        "name": "Chia Seeds (500g X 2) @ Rs 429 Worth Rs 1198",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "NEW BRAND",
+        "category_price_starting_from": "429",
+        "category_earn_text": "Flat Rs 180 Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/image%20(1)-1750335265.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/image%20(1)-1750335265.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2659/PPS94-Flash-Ramam-Catcard-100?id=",
+        "is_compared": false,
+        "brand": "Ramam",
+        "product_button_text": "",
+        "product_start_datetime": "2025-06-19T18:00:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2659",
+        "merchant_name": "Ramam",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/ramam-store-1750161483.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 0,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "180.00",
+          "price_aftercashback": "0.00",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS98-Flash-Fyva-Catcard-100",
+      "attributes": {
+        "name": "Tshirts Starting @ Rs 249",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "NEW BRAND",
+        "category_price_starting_from": "249",
+        "category_earn_text": "Flat 30% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/image%20(2)-1750664692.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/image%20(2)-1750664692.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2505/PPS98-Flash-Fyva-Catcard-100?id=",
+        "is_compared": false,
+        "brand": "Fyva",
+        "product_button_text": "",
+        "product_start_datetime": "2025-06-23T13:00:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2505",
+        "merchant_name": "Fyva",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/fyva-store-1744024631.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 0,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "15.00",
+          "price_aftercashback": "35.00",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS16-Flash-Myntra-catcard103",
+      "attributes": {
+        "name": "Min 50% Off On Personal Care",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "GRAB NOW",
+        "category_price_starting_from": "197",
+        "category_earn_text": "Upto 8% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/Deal10%2016-1736941263.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/Deal10%2016-1736941263.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2468/PPS16-Flash-Myntra-catcard103?id=",
+        "is_compared": false,
+        "brand": "Myntra",
+        "product_button_text": "",
+        "product_start_datetime": "2025-01-15T16:30:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2468",
+        "merchant_name": "Myntra New",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/myntra-1614060175.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 10,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "4.00",
+          "price_aftercashback": "46.00",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS293-Flash-XYXX-Crew-Catcard-104",
+      "attributes": {
+        "name": "2X Tees Cotton T-Shirts @ Rs 699 Only",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "TRENDING NOW",
+        "category_price_starting_from": "699",
+        "category_earn_text": "Flat 2% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/Deal35%202-1740122846.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/Deal35%202-1740122846.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2464/PPS293-Flash-XYXX-Crew-Catcard-104?id=",
+        "is_compared": false,
+        "brand": "XYXX Crew",
+        "product_button_text": "",
+        "product_start_datetime": "2025-02-21T12:00:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2464",
+        "merchant_name": "XYXX Crew",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/xyxx-1657861140.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 0,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "1.00",
+          "price_aftercashback": "49.00",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS16-Flash-Myntra-catcard104",
+      "attributes": {
+        "name": "Noise Wireless Earbuds @ Rs 999 Worth Rs 3499",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "BEST DEAL",
+        "category_price_starting_from": "999",
+        "category_earn_text": "Upto 8% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/Deal33%201-1740122908.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/Deal33%201-1740122908.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2468/PPS16-Flash-Myntra-catcard104?id=",
+        "is_compared": false,
+        "brand": "Myntra",
+        "product_button_text": "",
+        "product_start_datetime": "2025-02-21T12:00:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2468",
+        "merchant_name": "Myntra New",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/myntra-1614060175.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 10,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "4.00",
+          "price_aftercashback": "46.00",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS17-Flash-Ajio-catcard219",
+      "attributes": {
+        "name": "Minimum 50% Off On Marks & Spencer",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "FLASH DEAL",
+        "category_price_starting_from": "117",
+        "category_earn_text": "Upto 10% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/Deal10%2013-1733909835.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/Deal10%2013-1733909835.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2032/PPS17-Flash-Ajio-catcard219?id=",
+        "is_compared": false,
+        "brand": "Ajio",
+        "product_button_text": "",
+        "product_start_datetime": "2024-12-11T13:00:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2032",
+        "merchant_name": "Ajio New Store",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/ajio-store-1606812055.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 2,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "5.00",
+          "price_aftercashback": "45.00",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS202-Flash-Zandu-catcard-101",
+      "attributes": {
+        "name": "Buy 2 Products Get 2 Free",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "GRAB NOW",
+        "category_price_starting_from": "99",
+        "category_earn_text": "Flat 20% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/image%20(2)-1745824843.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/image%20(2)-1745824843.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2534/PPS202-Flash-Zandu-catcard-101?id=",
+        "is_compared": false,
+        "brand": "Zandu",
+        "product_button_text": "",
+        "product_start_datetime": "2025-04-28T12:30:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2534",
+        "merchant_name": "Zandu Care",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/emami-zandu-care-store-1677840107.jpg",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 0,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "2.50",
+          "price_aftercashback": "47.50",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS156-Flash-TrueElements-catcard101",
+      "attributes": {
+        "name": "Buy Any 4 Products @ Rs 888 Only",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "NUTS DEAL",
+        "category_price_starting_from": "195",
+        "category_earn_text": "Flat 10% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/03%2012-1736158506.jpg",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/03%2012-1736158506.jpg",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2531/PPS156-Flash-TrueElements-catcard101?id=",
+        "is_compared": false,
+        "brand": "True Elements",
+        "product_button_text": "",
+        "product_start_datetime": "2025-01-06T15:30:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2531",
+        "merchant_name": "True Elements Store",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/true-elements-store-1671615192.jpg",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 0,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "5.00",
+          "price_aftercashback": "45.00",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS17-Flash-Ajio-catcard220",
+      "attributes": {
+        "name": "Upto 50% Off On H&M",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "TRENDING NOW",
+        "category_price_starting_from": "119",
+        "category_earn_text": "Upto 10% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/Deal9%2010-1733909828.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/Deal9%2010-1733909828.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2032/PPS17-Flash-Ajio-catcard220?id=",
+        "is_compared": false,
+        "brand": "Ajio",
+        "product_button_text": "",
+        "product_start_datetime": "2024-12-11T13:00:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2032",
+        "merchant_name": "Ajio New Store",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/ajio-store-1606812055.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 2,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "5.00",
+          "price_aftercashback": "45.00",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS16-Flash-Myntra-catcard102",
+      "attributes": {
+        "name": "Min 60% Off On Cookware & Appliances",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "BEST DEALS",
+        "category_price_starting_from": "169",
+        "category_earn_text": "Upto 8% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/Deal9%2013-1736941270.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/Deal9%2013-1736941270.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2468/PPS16-Flash-Myntra-catcard102?id=",
+        "is_compared": false,
+        "brand": "Myntra",
+        "product_button_text": "",
+        "product_start_datetime": "2025-01-15T16:30:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2468",
+        "merchant_name": "Myntra New",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/myntra-1614060175.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 10,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "4.00",
+          "price_aftercashback": "46.00",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS75-Flash-tmc-catcard102",
+      "attributes": {
+        "name": "Buy 1 Get 1 Free + Free Gift",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "LOOT DEAL",
+        "category_price_starting_from": "249",
+        "category_earn_text": "Flat 15% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/Flash%20Deal1%206-1747724766.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/Flash%20Deal1%206-1747724766.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2471/PPS75-Flash-tmc-catcard102?id=",
+        "is_compared": false,
+        "brand": "The Man Company",
+        "product_button_text": "",
+        "product_start_datetime": "2025-05-20T11:00:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2471",
+        "merchant_name": "The Man Company Store",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/themancompany-direct-new-1702282942.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 0,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "7.50",
+          "price_aftercashback": "42.50",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS365-Flash-Fitspire-catcard-104",
+      "attributes": {
+        "name": "Upto 75% Off on Protein Chips + Freebies",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "FREEBIES",
+        "category_price_starting_from": "50",
+        "category_earn_text": "Flat 20% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/15%202-1745582692.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/15%202-1745582692.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2489/PPS365-Flash-Fitspire-catcard-104?id=",
+        "is_compared": false,
+        "brand": "Fitspire",
+        "product_button_text": "",
+        "product_start_datetime": "2025-04-25T15:30:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2489",
+        "merchant_name": "Fitspire Store",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/fitspire-admitad-1667540715.jpg",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 0,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "10.00",
+          "price_aftercashback": "40.00",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS59-Flash-Gonoise-catcard-102",
+      "attributes": {
+        "name": "2 x Zest 3W Wireless Speaker @ Rs 1499 Only",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "LOOT DEAL",
+        "category_price_starting_from": "1499",
+        "category_earn_text": "Flat 6% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/11-1728624758.jpg",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/11-1728624758.jpg",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2390/PPS59-Flash-Gonoise-catcard-102?id=",
+        "is_compared": false,
+        "brand": "Go Noise",
+        "product_button_text": "",
+        "product_start_datetime": "2024-10-11T10:00:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2390",
+        "merchant_name": "Go Noise Store",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/gonoise-store-ek-1724994446.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 0,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "3.00",
+          "price_aftercashback": "47.00",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS156-Flash-TrueElements-catcard102",
+      "attributes": {
+        "name": "Flat 50% Off on Select Products",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "TRENDING NOW",
+        "category_price_starting_from": "165",
+        "category_earn_text": "Flat 10% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/Deal-4%206-1736316657.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/Deal-4%206-1736316657.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2531/PPS156-Flash-TrueElements-catcard102?id=",
+        "is_compared": false,
+        "brand": "True Elements",
+        "product_button_text": "",
+        "product_start_datetime": "2025-01-08T11:30:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2531",
+        "merchant_name": "True Elements Store",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/true-elements-store-1671615192.jpg",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 0,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "5.00",
+          "price_aftercashback": "45.00",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS1-Flash-Amazon-catcard-102",
+      "attributes": {
+        "name": "Foldable Laptop Table @ Rs 379 Worth Rs 1999",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "LIMITED DEAL",
+        "category_price_starting_from": "379",
+        "category_earn_text": "Flat 8.6% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/image%20(1)-1744868861.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/image%20(1)-1744868861.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/1100/PPS1-Flash-Amazon-catcard-102?id=",
+        "is_compared": false,
+        "brand": "Amazon",
+        "product_button_text": "",
+        "product_start_datetime": "2025-04-16T17:30:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "1100",
+        "merchant_name": "Amazon",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/amazon-store-exclusive-1602774183.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 12,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "5.10",
+          "price_aftercashback": "44.90",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS292-Flash-BMC-catcard-105",
+      "attributes": {
+        "name": "Buy Any 2 Products at Rs 549 Only",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "LOOT DEAL",
+        "category_price_starting_from": "549",
+        "category_earn_text": "Flat 17% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/Deal10%207-1729752876.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/Deal10%207-1729752876.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2528/PPS292-Flash-BMC-catcard-105?id=",
+        "is_compared": false,
+        "brand": "Bombay Shaving Company",
+        "product_button_text": "",
+        "product_start_datetime": "2024-10-24T12:30:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2528",
+        "merchant_name": "Bombay Shaving Company Store",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/bombay-shaving-company-new-2-1710419943.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 0,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "8.50",
+          "price_aftercashback": "41.50",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS293-Flash-XYXX-Crew-Catcard-103",
+      "attributes": {
+        "name": "Buy Any 5 Premium Briefs @ Rs 999 Only",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "GRAB DEAL",
+        "category_price_starting_from": "999",
+        "category_earn_text": "Flat 2% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/Flash%20Deal4%202-1745997284.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/Flash%20Deal4%202-1745997284.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2464/PPS293-Flash-XYXX-Crew-Catcard-103?id=",
+        "is_compared": false,
+        "brand": "XYXX Crew",
+        "product_button_text": "",
+        "product_start_datetime": "2025-04-30T12:00:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2464",
+        "merchant_name": "XYXX Crew",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/xyxx-1657861140.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 0,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "1.00",
+          "price_aftercashback": "49.00",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS293-Flash-XYXX-Crew-Catcard-102",
+      "attributes": {
+        "name": "Buy Any 5 Premium Vests @ Rs 999 Only",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "GRAB DEAL",
+        "category_price_starting_from": "999",
+        "category_earn_text": "Flat 2% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/Flash%20Deal3%201-1745997324.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/Flash%20Deal3%201-1745997324.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2464/PPS293-Flash-XYXX-Crew-Catcard-102?id=",
+        "is_compared": false,
+        "brand": "XYXX Crew",
+        "product_button_text": "",
+        "product_start_datetime": "2025-04-30T12:00:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2464",
+        "merchant_name": "XYXX Crew",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/xyxx-1657861140.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 0,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "1.00",
+          "price_aftercashback": "49.00",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS66-Flash-Mamaearth-catcard-101",
+      "attributes": {
+        "name": "Get 3 Freebies On Orders over Rs 599",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "SPECIAL OFFER",
+        "category_price_starting_from": "218",
+        "category_earn_text": "Upto 18% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/image%20(1)-1745217467.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/image%20(1)-1745217467.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2632/PPS66-Flash-Mamaearth-catcard-101?id=",
+        "is_compared": false,
+        "brand": "Mamaearth",
+        "product_button_text": "",
+        "product_start_datetime": "2025-04-17T13:30:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2632",
+        "merchant_name": "MamaEarth",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/mama-earth-coupons-1561467924.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 0,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "6.00",
+          "price_aftercashback": "44.00",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS75-Flash-tmc-catcard104",
+      "attributes": {
+        "name": "Any 3 Perfumes @ Rs 499 Only",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "LOOT DEAL",
+        "category_price_starting_from": "199",
+        "category_earn_text": "Flat 15% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/Deal20%202-1743677862.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/Deal20%202-1743677862.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2471/PPS75-Flash-tmc-catcard104?id=",
+        "is_compared": false,
+        "brand": "The Man Company",
+        "product_button_text": "",
+        "product_start_datetime": "2025-02-06T13:00:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2471",
+        "merchant_name": "The Man Company Store",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/themancompany-direct-new-1702282942.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 0,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "7.50",
+          "price_aftercashback": "42.50",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS292-Flash-BMC-catcard-104",
+      "attributes": {
+        "name": "Everything @ Rs 99 Only",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "LOOT DEAL",
+        "category_price_starting_from": "99",
+        "category_earn_text": "Flat 17% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/Flash%20Deal%208-1750140950.png",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/Flash%20Deal%208-1750140950.png",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2528/PPS292-Flash-BMC-catcard-104?id=",
+        "is_compared": false,
+        "brand": "Bombay Shaving Company",
+        "product_button_text": "",
+        "product_start_datetime": "2025-06-17T11:30:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2528",
+        "merchant_name": "Bombay Shaving Company Store",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/bombay-shaving-company-new-2-1710419943.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 0,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "8.50",
+          "price_aftercashback": "41.50",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    },
+    {
+      "type": "products",
+      "id": "PPS244-Flash-hyphen-catcard-1",
+      "attributes": {
+        "name": "Buy Any 2 Products @ Rs 799 Only",
+        "card_type": false,
+        "deal_card_type": "normal",
+        "product_label": "FLASH DEAL",
+        "category_price_starting_from": "299",
+        "category_earn_text": "Flat 12% Profit",
+        "category_detail": "",
+        "facets": [],
+        "image_url": "https://asset22.ckassets.com/resources/image/staticpage_images/fc3%201-1737703793.jpg",
+        "image_urls": {
+          "image_url_1": "https://asset22.ckassets.com/resources/image/staticpage_images/fc3%201-1737703793.jpg",
+          "image_url_2": "",
+          "image_url_3": "",
+          "image_url_4": ""
+        },
+        "cashback_url": "https://tracking.earnkaro.com/visitproduct/2476/PPS244-Flash-hyphen-catcard-1?id=",
+        "is_compared": false,
+        "brand": "Hyphen",
+        "product_button_text": "",
+        "product_start_datetime": "2025-01-24T12:30:00Z",
+        "product_end_datetime": "2025-06-25T18:30:00Z",
+        "merchant_offer_id": "2476",
+        "merchant_name": "Hyphen",
+        "cashback_type": "Cashback",
+        "merchant_image_url": "https://asset20.ckassets.com/resources/image/stores/hyphen-store-1707997633.png",
+        "offer_type": "Cashback only",
+        "coupons_count": 0,
+        "secondary_cashback_count": 0,
+        "price": {
+          "original_price": "100.00",
+          "discounted_price": "50.00",
+          "cashback_amount": "6.00",
+          "price_aftercashback": "44.00",
+          "currency": "INR",
+          "discount_percentage": 50
+        }
+      }
+    }
+  ],
+  "page": 1,
+  "pageSize": 24,
+  "included": [
+    {
+      "type": "category",
+      "id": "category",
+      "relationships": {
+        "data": [
+          {
+            "type": "categories",
+            "id": "trending-offers",
+            "attributes": {
+              "name": "Super Sellers",
+              "hierachy_unique_identifier": "product/trending-offers"
+            },
+            "relationships": {
+              "data": [
+                {
+                  "type": "categories",
+                  "id": "best-deals-today",
+                  "attributes": {
+                    "name": "FLASH DEALS",
+                    "hierachy_unique_identifier": "product/trending-offers/best-deals-today",
+                    "count": 28
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "categories",
+            "id": "best-deals-today",
+            "attributes": {
+              "name": "FLASH DEALS",
+              "hierachy_unique_identifier": "product/trending-offers/best-deals-today"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "price",
+      "id": "price",
+      "attributes": {
+        "filter_name": "Price",
+        "filter_key": "Price",
+        "values": {
+          "min_price": 50,
+          "max_price": 50
+        }
+      }
+    },
+    {
+      "type": "seller",
+      "id": "seller",
+      "attributes": {
+        "filter_name": "Seller",
+        "filter_key": "Seller",
+        "values": [
+          {
+            "value": "XYXX Crew",
+            "count": 4
+          },
+          {
+            "value": "Myntra",
+            "count": 3
+          },
+          {
+            "value": "Ajio",
+            "count": 2
+          },
+          {
+            "value": "Bombay Shaving Company",
+            "count": 2
+          },
+          {
+            "value": "GoNoise",
+            "count": 2
+          },
+          {
+            "value": "Laorgano",
+            "count": 2
+          },
+          {
+            "value": "Nivea",
+            "count": 2
+          },
+          {
+            "value": "The Man Company",
+            "count": 2
+          },
+          {
+            "value": "Zandu",
+            "count": 2
+          },
+          {
+            "value": "Adda247",
+            "count": 1
+          },
+          {
+            "value": "Amazon",
+            "count": 1
+          },
+          {
+            "value": "Dyson",
+            "count": 1
+          },
+          {
+            "value": "MamaEarth",
+            "count": 1
+          },
+          {
+            "value": "Nilkamal",
+            "count": 1
+          },
+          {
+            "value": "We Make Creators",
+            "count": 1
+          },
+          {
+            "value": "Whatwears",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "productBrand",
+      "id": "productBrand",
+      "attributes": {
+        "filter_name": "Brand",
+        "filter_key": "Brand",
+        "values": [
+          {
+            "value": "XYXX Crew",
+            "count": 4
+          },
+          {
+            "value": "Myntra",
+            "count": 3
+          },
+          {
+            "value": "Ajio",
+            "count": 2
+          },
+          {
+            "value": "Bombay Shaving Company",
+            "count": 2
+          },
+          {
+            "value": "Go Noise",
+            "count": 2
+          },
+          {
+            "value": "Hyphen",
+            "count": 2
+          },
+          {
+            "value": "The Man Company",
+            "count": 2
+          },
+          {
+            "value": "True Elements",
+            "count": 2
+          },
+          {
+            "value": "Zandu",
+            "count": 2
+          },
+          {
+            "value": "Amazon",
+            "count": 1
+          },
+          {
+            "value": "Clove Oral Care",
+            "count": 1
+          },
+          {
+            "value": "Fitspire",
+            "count": 1
+          },
+          {
+            "value": "Fyva",
+            "count": 1
+          },
+          {
+            "value": "Houseofkoala",
+            "count": 1
+          },
+          {
+            "value": "Mamaearth",
+            "count": 1
+          },
+          {
+            "value": "Ramam",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "seo_content",
+      "id": "4221",
+      "attributes": {
+        "meta_tags": "<title>{NAME}</title><meta name=\"Description\" content=\"{URL_KEY}\"><meta name=\"robots\" content=\"INDEX, FOLLOW\"><link rel=\"canonical\" href=\"{PARTNER_DOMAIN_URL}\" />",
+        "seo_details": ""
+      }
+    }
+  ],
+  "relationship": {
+    "categories": {
+      "data": {
+        "type": "categories",
+        "id": "4221",
+        "attributes": {
+          "name": "FLASH DEALS",
+          "unique_identifier": "best-deals-today",
+          "hierarchy_unique_identifier": "product/trending-offers/best-deals-today",
+          "hierarchy_name": "Product Feeds/Super Sellers/FLASH DEALS",
+          "seo_h1_tag": ""
+        }
+      }
+    }
+  },
+  "meta": {
+    "page_number": "1",
+    "page_size": "24",
+    "total_records": 28,
+    "suggestions": []
+  },
+  "listUrl": "?baseURL=category/trending-offers/best-deals-today&include=products,filters,seo_content,cms_block&device=Desktop&page[number]=1&page[size]=24",
+  "statusCode": 200
+}

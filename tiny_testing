@@ -1,0 +1,4 @@
+from pytinyurl import make_tiny
+
+short_url = make_tiny("https://www.geeksforgeeks.org/python/python-url-shortener-using-tinyurl-api/")
+print(short_url)
