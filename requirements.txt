@@ -1,0 +1,5 @@
+playwright==1.44.0
+pymysql==1.1.0
+python-telegram-bot==20.7
+groq  # Replace with the correct version once confirmed
+python-dotenv==1.0.1
